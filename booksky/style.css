@@ -50,7 +50,7 @@ color: #fd6569;
     right: 20px;
 }
 
-/* Overlay */
+
 .overlay{
     background-color: black;
     opacity: 0.8;
@@ -63,7 +63,7 @@ color: #fd6569;
     display: none;
 }
 
-/* Popup */
+
 .popup{
     background-color: #fd6569;
     width: 40%;
